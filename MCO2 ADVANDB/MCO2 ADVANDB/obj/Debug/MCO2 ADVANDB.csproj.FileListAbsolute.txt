@@ -1,0 +1,9 @@
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\bin\Debug\MCO2 ADVANDB.exe.config
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\bin\Debug\MCO2 ADVANDB.exe
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\bin\Debug\MCO2 ADVANDB.pdb
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\obj\Debug\MCO2 ADVANDB.csprojResolveAssemblyReference.cache
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\obj\Debug\MCO2_ADVANDB.Form1.resources
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\obj\Debug\MCO2_ADVANDB.Properties.Resources.resources
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\obj\Debug\MCO2 ADVANDB.csproj.GenerateResource.Cache
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\obj\Debug\MCO2 ADVANDB.exe
+d:\users\avggo.msi\documents\visual studio 2015\Projects\MCO2 ADVANDB\MCO2 ADVANDB\obj\Debug\MCO2 ADVANDB.pdb
